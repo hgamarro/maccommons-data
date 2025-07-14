@@ -2,6 +2,7 @@ name: 🏠 Daily MacCommons Scrape
 
 # run once every day at 06:00 UTC
 on:
+  workflow_dispatch:    # ← enables the “Run workflow” button
   schedule:
     - cron: '0 6 * * *'
 
