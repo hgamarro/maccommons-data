@@ -1,0 +1,50 @@
+name: 🏠 Daily MacCommons Scrape
+
+# run once every day at 06:00 UTC
+on:
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # allows us to push back
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          ./scrape_apts.py
+
+      - name: Commit & push new snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # stage any new or changed files
+          git add snapshots/*.json
+          # only commit if there are changes
+          git diff --cached --quiet || git commit -m "Daily snapshot $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git push
+
+
+
+
+
+
+
+
+
+
+
