@@ -1,0 +1,249 @@
+{
+  "timestamp": "20250719T062642Z",
+  "units": {
+    "265": {
+      "type": "unit",
+      "slug": "8dee040bc9f0bbf15046712e0d0b7249",
+      "permalink": "/floorplans/unit-8dee040bc9f0bbf15046712e0d0b7249/",
+      "id": 522254,
+      "id_value": "4992424",
+      "property_id": "1239361",
+      "apartment_number": "265",
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#265",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>563 - 610 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A1",
+      "building_display": "Building A1",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "563 - 610 sq. ft.",
+      "square_feet": "563",
+      "rent_min": "2102",
+      "rent_max": "2198",
+      "price": "Base Rent $2,102",
+      "price_display": "Base Rent $2,102",
+      "available_date": "1755234000",
+      "available_display": "Available Aug 15",
+      "arbitrary_filter_links": [],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#265 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet",
+        "alt": "#265 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet"
+      },
+      "engrain_data": false,
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#265\" aria-label=\"View #265\" href=\"/floorplans/unit-8dee040bc9f0bbf15046712e0d0b7249/\" data-unit=\"8dee040bc9f0bbf15046712e0d0b7249\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                <div class=\"jd-fp-unit-card__image\">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#265 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet\" alt=\"#265 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text jd-fp-card-info__text--muted jd-fp-unit-card__alt-floorplan-title\">\n                                <span>Jr. 1 Bedroom B</span>\n                            </p>\n\t\t\t\t\t\t                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline\">\n                            <span class=\"jd-fp-card-info__title\">#265</span>\n\n\t\t\t\t\t\t\t                        </div>\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>563 - 610 sq. ft.</span>                            </p>\n\t\t\t\t\t\t                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group\">\n                            <p class=\"jd-fp-card-info__text jd-fp-card-info__text--space-between jd-fp-card-info__text--bold-first-child jd-fp-unit-card__price-availability-info-row\">\n\t\t\t\t\t\t\t\t                                    <span>Base Rent $2,102</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                    <span>Available Aug 15</span>\n\t\t\t\t\t\t\t\t                            </p>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "raw": "15 Months",
+          "term": "15",
+          "price": "$2,102"
+        },
+        {
+          "raw": "14 Months",
+          "term": "14",
+          "price": "$2,108"
+        },
+        {
+          "raw": "12 Months",
+          "term": "12",
+          "price": "$2,125"
+        }
+      ],
+      "seo_title": "#265 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#265 | 1 bed, 1 bath | 563 - 610 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "available_date",
+        "building",
+        "deposit",
+        "square_feet_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992424/property_floorplan[id]/1147433/from_check_availability/1/term_month/12/?lease_start_date=8/15/2025&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992424/property_floorplan[id]/1147433/from_check_availability/1/term_month/{lease_term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2025-08-15",
+        "end_date": "2025-09-14",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20250719T062642Z"
+    },
+    "409": {
+      "type": "unit",
+      "slug": "7796f4485ce14c0f00ba918f12b4e0b1",
+      "permalink": "/floorplans/unit-7796f4485ce14c0f00ba918f12b4e0b1/",
+      "id": 522252,
+      "id_value": "4992589",
+      "property_id": "1239361",
+      "apartment_number": "409",
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#409",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>563 - 610 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A2",
+      "building_display": "Building A2",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "563 - 610 sq. ft.",
+      "square_feet": "563",
+      "rent_min": "2135",
+      "rent_max": "2169",
+      "price": "Base Rent $2,135",
+      "price_display": "Base Rent $2,135",
+      "available_date": "1756098000",
+      "available_display": "Available Aug 25",
+      "arbitrary_filter_links": [],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#409 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet",
+        "alt": "#409 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet"
+      },
+      "engrain_data": false,
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#409\" aria-label=\"View #409\" href=\"/floorplans/unit-7796f4485ce14c0f00ba918f12b4e0b1/\" data-unit=\"7796f4485ce14c0f00ba918f12b4e0b1\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                <div class=\"jd-fp-unit-card__image\">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#409 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet\" alt=\"#409 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text jd-fp-card-info__text--muted jd-fp-unit-card__alt-floorplan-title\">\n                                <span>Jr. 1 Bedroom B</span>\n                            </p>\n\t\t\t\t\t\t                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline\">\n                            <span class=\"jd-fp-card-info__title\">#409</span>\n\n\t\t\t\t\t\t\t                        </div>\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>563 - 610 sq. ft.</span>                            </p>\n\t\t\t\t\t\t                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group\">\n                            <p class=\"jd-fp-card-info__text jd-fp-card-info__text--space-between jd-fp-card-info__text--bold-first-child jd-fp-unit-card__price-availability-info-row\">\n\t\t\t\t\t\t\t\t                                    <span>Base Rent $2,135</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                    <span>Available Aug 25</span>\n\t\t\t\t\t\t\t\t                            </p>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "raw": "15 Months",
+          "term": "15",
+          "price": "$2,135"
+        },
+        {
+          "raw": "12 Months",
+          "term": "12",
+          "price": "$2,158"
+        }
+      ],
+      "seo_title": "#409 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#409 | 1 bed, 1 bath | 563 - 610 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "available_date",
+        "building",
+        "deposit",
+        "square_feet_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992589/property_floorplan[id]/1147433/from_check_availability/1/term_month/12/?lease_start_date=8/25/2025&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992589/property_floorplan[id]/1147433/from_check_availability/1/term_month/{lease_term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2025-08-25",
+        "end_date": "2025-09-24",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20250719T062642Z"
+    },
+    "511": {
+      "type": "unit",
+      "slug": "35fb661661c384dfe2cb5f16d52249b6",
+      "permalink": "/floorplans/unit-35fb661661c384dfe2cb5f16d52249b6/",
+      "id": 522253,
+      "id_value": "4992632",
+      "property_id": "1239361",
+      "apartment_number": "511",
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#511",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>563 - 610 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A2",
+      "building_display": "Building A2",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "563 - 610 sq. ft.",
+      "square_feet": "563",
+      "rent_min": "2219",
+      "rent_max": "2317",
+      "price": "Base Rent $2,219",
+      "price_display": "Base Rent $2,219",
+      "available_date": "1756357200",
+      "available_display": "Available Aug 28",
+      "arbitrary_filter_links": [],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#511 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet",
+        "alt": "#511 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet"
+      },
+      "engrain_data": false,
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#511\" aria-label=\"View #511\" href=\"/floorplans/unit-35fb661661c384dfe2cb5f16d52249b6/\" data-unit=\"35fb661661c384dfe2cb5f16d52249b6\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                <div class=\"jd-fp-unit-card__image\">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#511 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet\" alt=\"#511 - 1 bedroom floor plan layout with 1 bathroom and 563 - 610 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text jd-fp-card-info__text--muted jd-fp-unit-card__alt-floorplan-title\">\n                                <span>Jr. 1 Bedroom B</span>\n                            </p>\n\t\t\t\t\t\t                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline\">\n                            <span class=\"jd-fp-card-info__title\">#511</span>\n\n\t\t\t\t\t\t\t                        </div>\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>563 - 610 sq. ft.</span>                            </p>\n\t\t\t\t\t\t                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group\">\n                            <p class=\"jd-fp-card-info__text jd-fp-card-info__text--space-between jd-fp-card-info__text--bold-first-child jd-fp-unit-card__price-availability-info-row\">\n\t\t\t\t\t\t\t\t                                    <span>Base Rent $2,219</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                                    <span>Available Aug 28</span>\n\t\t\t\t\t\t\t\t                            </p>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "raw": "15 Months",
+          "term": "15",
+          "price": "$2,219"
+        },
+        {
+          "raw": "14 Months",
+          "term": "14",
+          "price": "$2,225"
+        },
+        {
+          "raw": "12 Months",
+          "term": "12",
+          "price": "$2,242"
+        }
+      ],
+      "seo_title": "#511 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#511 | 1 bed, 1 bath | 563 - 610 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "available_date",
+        "building",
+        "deposit",
+        "square_feet_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992632/property_floorplan[id]/1147433/from_check_availability/1/term_month/12/?lease_start_date=8/28/2025&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992632/property_floorplan[id]/1147433/from_check_availability/1/term_month/{lease_term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2025-08-28",
+        "end_date": "2025-09-27",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20250719T062642Z"
+    }
+  }
+}
