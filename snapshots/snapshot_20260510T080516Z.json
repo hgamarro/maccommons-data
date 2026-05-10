@@ -1,0 +1,1846 @@
+{
+  "timestamp": "20260510T080516Z",
+  "units": {
+    "456": {
+      "type": "unit",
+      "slug": "f7111290a2209d1833ed44658cca2257",
+      "permalink": "/floorplans/unit-f7111290a2209d1833ed44658cca2257/",
+      "id": 660116,
+      "id_value": "12094694",
+      "property_id": "35994",
+      "apartment_number": "456",
+      "availability_count": 6,
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#456",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>577 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A1",
+      "building_display": "Building A1",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "577 sq. ft.",
+      "square_feet": "577",
+      "rent_min": "2331.70",
+      "rent_max": "2331.70",
+      "price": "$2,331.70",
+      "price_display": "$2,331.70 /mo*",
+      "price_itemized": {
+        "items": [
+          {
+            "label": "Total Monthly Leasing Price*",
+            "display_size": "large",
+            "tooltip": "",
+            "value": "$2,331.70"
+          },
+          {
+            "label": "Est. Application Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+            "value": "$310"
+          },
+          {
+            "label": "Est. Move-In Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+            "value": "$3,081.70"
+          },
+          {
+            "label": "Est. Move-Out Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+            "value": "$15"
+          }
+        ]
+      },
+      "price_term_origin": "15",
+      "price_entity": {
+        "origin": "unit",
+        "term": "15",
+        "termDisplay": "15 months",
+        "termOptionDisplay": "15 Months ($2,332) Base Rent",
+        "date": "2026-03-30",
+        "priceLow": 2331.7,
+        "priceHigh": 2331.7,
+        "priceDisplay": "$2,331.70 /mo*",
+        "priceDisplayNoFees": "$2,262 Base Rent",
+        "pricingReflectFees": true,
+        "best": null,
+        "adjusted": {
+          "low_no_fees": "2262",
+          "low": "2331.70",
+          "low_with_movein_fees": "3081.70",
+          "low_moveout_fees": "15",
+          "low_application_fees": "310",
+          "high_no_fees": "2262",
+          "high": "2331.70",
+          "high_with_movein_fees": "3081.70",
+          "high_moveout_fees": "15",
+          "high_application_fees": "310",
+          "display_no_fees": "$2,262",
+          "display": "$2,331.70",
+          "display_with_movein_fees": "$3,081.70",
+          "display_moveout_fees": "$15",
+          "display_application_fees": "$310",
+          "fees_prorated": false,
+          "base_rent_prorated": false,
+          "term_matching_price": "15"
+        },
+        "displayDate": "",
+        "itemized": {
+          "items": [
+            {
+              "label": "Total Monthly Leasing Price*",
+              "display_size": "large",
+              "tooltip": "",
+              "value": "$2,331.70"
+            },
+            {
+              "label": "Est. Application Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+              "value": "$310"
+            },
+            {
+              "label": "Est. Move-In Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+              "value": "$3,081.70"
+            },
+            {
+              "label": "Est. Move-Out Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+              "value": "$15"
+            }
+          ]
+        },
+        "termId": null
+      },
+      "available_date": "1774846800",
+      "available_display": "Available Now",
+      "arbitrary_filter_links": [
+        4
+      ],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#456 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet",
+        "alt": "#456 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet"
+      },
+      "engrain_data": {
+        "embed_url": "https://sightmap.com/embed/n9w6344zw71?enable_api=1&origin=https://maccommons.com",
+        "asset_id": "35994",
+        "unit_id": "12094694",
+        "floor_id": "147427",
+        "floor_name": "4"
+      },
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#456\" aria-label=\"View #456\" href=\"/floorplans/unit-f7111290a2209d1833ed44658cca2257/\" data-unit=\"f7111290a2209d1833ed44658cca2257\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                    <span class=\"jd-fp-tour-icon jd-fp-tour-icon--float\">\n                        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M6.106 3.679c-1.365 0-2.145.877-2.193.975-.293.292-.244.73.048 1.023a.707.707 0 0 0 1.024-.048s.439-.44 1.121-.44c.537 0 .78.196.78.586 0 .487-.536.585-.73.585H5.91c-.39 0-.73.341-.73.731s.34.731.73.731c.439 0 1.219.147 1.219.585 0 .537-.585.585-.926.585-.78 0-1.219-.438-1.219-.438-.244-.293-.731-.293-1.024-.05-.292.244-.34.732-.097 1.025.097.097.877.975 2.34.975 1.414 0 2.389-.83 2.389-2.048 0-.585-.244-1.072-.683-1.462.244-.342.439-.732.439-1.22 0-1.267-.926-2.095-2.243-2.095ZM17.855 3.679a2.414 2.414 0 0 0-2.438 2.437v1.95c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438v-1.95a2.414 2.414 0 0 0-2.437-2.437Zm.975 4.387c0 .536-.439.975-.975.975s-.975-.439-.975-.975v-1.95c0-.536.439-.975.975-.975s.975.439.975.975v1.95ZM12.005 5.629h-.146c.487-.439 1.023-.488 1.121-.488.39 0 .731-.341.682-.78.05-.39-.292-.682-.73-.682-1.17.049-3.365 1.023-3.365 4.241v.146c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438S13.37 5.63 12.005 5.63Zm0 3.412c-.536 0-.975-.439-.975-.975s.439-.975.975-.975.975.439.975.975-.439.975-.975.975ZM11.981 14.603a1.04 1.04 0 0 0-.715-.317.998.998 0 0 0-.985.986c0 .252.115.513.318.716l.492.491c-6.272-.143-9.12-1.708-9.12-2.187 0-.203.867-.981 3.523-1.566l.014-.487a15.23 15.23 0 0 1-2.263-.818l-.096-.044-.098.037C1.084 12.152 0 13.174 0 14.292c0 1.988 3.44 4.014 11.108 4.16l-.558.558a.958.958 0 0 0 0 1.384.974.974 0 0 0 .69.295.975.975 0 0 0 .693-.295l2.203-2.204a.955.955 0 0 0 .002-1.38l-2.157-2.207ZM20.95 11.414l-.108-.04-.1.054c-.6.323-1.357.612-2.25.86l.013.487c2.656.585 3.524 1.363 3.524 1.563-.023.186-1.028 1.255-5.263 1.86a1.01 1.01 0 0 0-.854 1.112 1.016 1.016 0 0 0 1.12.853C21.655 17.452 24 16.15 24 14.293c0-1.119-1.084-2.14-3.05-2.879Z\"/></svg>                    </span>\n\t\t\t\t                <div class=\"jd-fp-unit-card__image \">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#456 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet\" alt=\"#456 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n                        <div class=\"jd-fp-unit-card__divergence-tag jd-fp-card-info__text\">\n                            <span class=\"jd-fp-card-info__badge\">Outside price filter range</span>\n                        </div>\n                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline jd-fp-card-info__text--space-between\">\n                            <span class=\"jd-fp-card-info__title jd-fp-card-info__title--large\">#456</span>\n\n                                                            <span class=\"jd-fp-card-info__text--brand \">Available Now</span>\n                                                    </div>\n                        <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>577 sq. ft.</span>                            </p>\n\t\t\t\t\t\t\n                                                    <p class=\"jd-fp-card-info__spacer\"><span></span></p>\n                                                </div>\n                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group jd-fp-card-info__group--gap-small\">\n                            <span class=\"jd-fp-card-info__text jd-fp-card-info__text--stack\">\n                                <span data-jd-fp-adp=\"display\" class=\"jd-fp-strong-text\">$2,331.70 /mo*</span>\n                                                                    <span class=\"jd-fp-card-info-term-and-base jd-fp-xsmall-text-size\">\n                                                                                    <span class=\"jd-fp-card-info-term-and-base--term\" data-jd-fp-adp=\"term\">15 months</span>\n                                                                                                                            <span class=\"jd-fp-card-info-term-and-base--base\" data-jd-fp-adp=\"base_display\">$2,262 Base Rent</span>\n                                                                            </span>\n                                                            </span>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [
+        {
+          "text": "#456 Tour",
+          "original_text": "#456 Tour",
+          "url": "https://a.peek.us/viewer?token=FluJc7haSD&pageType=unit",
+          "type": "unit"
+        }
+      ],
+      "lease_terms": [
+        {
+          "origin": "lease_term",
+          "term": "11",
+          "termDisplay": "11 months",
+          "termOptionDisplay": "11 Months ($2,492) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2492,
+          "priceHigh": 2492,
+          "priceDisplay": "$2,492 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "12",
+          "termDisplay": "12 months",
+          "termOptionDisplay": "12 Months ($2,262) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2262,
+          "priceHigh": 2262,
+          "priceDisplay": "$2,262 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": true,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "13",
+          "termDisplay": "13 months",
+          "termOptionDisplay": "13 Months ($2,262) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2262,
+          "priceHigh": 2262,
+          "priceDisplay": "$2,262 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "14",
+          "termDisplay": "14 months",
+          "termOptionDisplay": "14 Months ($2,262) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2262,
+          "priceHigh": 2262,
+          "priceDisplay": "$2,262 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "15",
+          "termDisplay": "15 months",
+          "termOptionDisplay": "15 Months ($2,262) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2262,
+          "priceHigh": 2262,
+          "priceDisplay": "$2,262 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        }
+      ],
+      "seo_title": "#456 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#456 | 1 bed, 1 bath | 577 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "pricing_base",
+        "lease_term_floorplan",
+        "available_date",
+        "building",
+        "floor",
+        "square_feet_unit",
+        "lease_term_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992456/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992456/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2026-05-10",
+        "end_date": "2026-06-09",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20260510T080516Z"
+    },
+    "268": {
+      "type": "unit",
+      "slug": "fb4487e9c7b9964e6b30fbd93b9fa14a",
+      "permalink": "/floorplans/unit-fb4487e9c7b9964e6b30fbd93b9fa14a/",
+      "id": 660114,
+      "id_value": "12094664",
+      "property_id": "35994",
+      "apartment_number": "268",
+      "availability_count": 6,
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#268",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>577 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A1",
+      "building_display": "Building A1",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "577 sq. ft.",
+      "square_feet": "577",
+      "rent_min": "2294.70",
+      "rent_max": "2294.70",
+      "price": "$2,294.70",
+      "price_display": "$2,294.70 /mo*",
+      "price_itemized": {
+        "items": [
+          {
+            "label": "Total Monthly Leasing Price*",
+            "display_size": "large",
+            "tooltip": "",
+            "value": "$2,294.70"
+          },
+          {
+            "label": "Est. Application Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+            "value": "$310"
+          },
+          {
+            "label": "Est. Move-In Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+            "value": "$3,044.70"
+          },
+          {
+            "label": "Est. Move-Out Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+            "value": "$15"
+          }
+        ]
+      },
+      "price_term_origin": "15",
+      "price_entity": {
+        "origin": "unit",
+        "term": "15",
+        "termDisplay": "15 months",
+        "termOptionDisplay": "15 Months ($2,295) Base Rent",
+        "date": "2026-04-02",
+        "priceLow": 2294.7,
+        "priceHigh": 2294.7,
+        "priceDisplay": "$2,294.70 /mo*",
+        "priceDisplayNoFees": "$2,225 Base Rent",
+        "pricingReflectFees": true,
+        "best": null,
+        "adjusted": {
+          "low_no_fees": "2225",
+          "low": "2294.70",
+          "low_with_movein_fees": "3044.70",
+          "low_moveout_fees": "15",
+          "low_application_fees": "310",
+          "high_no_fees": "2225",
+          "high": "2294.70",
+          "high_with_movein_fees": "3044.70",
+          "high_moveout_fees": "15",
+          "high_application_fees": "310",
+          "display_no_fees": "$2,225",
+          "display": "$2,294.70",
+          "display_with_movein_fees": "$3,044.70",
+          "display_moveout_fees": "$15",
+          "display_application_fees": "$310",
+          "fees_prorated": false,
+          "base_rent_prorated": false,
+          "term_matching_price": "15"
+        },
+        "displayDate": "",
+        "itemized": {
+          "items": [
+            {
+              "label": "Total Monthly Leasing Price*",
+              "display_size": "large",
+              "tooltip": "",
+              "value": "$2,294.70"
+            },
+            {
+              "label": "Est. Application Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+              "value": "$310"
+            },
+            {
+              "label": "Est. Move-In Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+              "value": "$3,044.70"
+            },
+            {
+              "label": "Est. Move-Out Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+              "value": "$15"
+            }
+          ]
+        },
+        "termId": null
+      },
+      "available_date": "1775106000",
+      "available_display": "Available Now",
+      "arbitrary_filter_links": [
+        4
+      ],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#268 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet",
+        "alt": "#268 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet"
+      },
+      "engrain_data": {
+        "embed_url": "https://sightmap.com/embed/n9w6344zw71?enable_api=1&origin=https://maccommons.com",
+        "asset_id": "35994",
+        "unit_id": "12094664",
+        "floor_id": "147425",
+        "floor_name": "2"
+      },
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#268\" aria-label=\"View #268\" href=\"/floorplans/unit-fb4487e9c7b9964e6b30fbd93b9fa14a/\" data-unit=\"fb4487e9c7b9964e6b30fbd93b9fa14a\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                    <span class=\"jd-fp-tour-icon jd-fp-tour-icon--float\">\n                        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M6.106 3.679c-1.365 0-2.145.877-2.193.975-.293.292-.244.73.048 1.023a.707.707 0 0 0 1.024-.048s.439-.44 1.121-.44c.537 0 .78.196.78.586 0 .487-.536.585-.73.585H5.91c-.39 0-.73.341-.73.731s.34.731.73.731c.439 0 1.219.147 1.219.585 0 .537-.585.585-.926.585-.78 0-1.219-.438-1.219-.438-.244-.293-.731-.293-1.024-.05-.292.244-.34.732-.097 1.025.097.097.877.975 2.34.975 1.414 0 2.389-.83 2.389-2.048 0-.585-.244-1.072-.683-1.462.244-.342.439-.732.439-1.22 0-1.267-.926-2.095-2.243-2.095ZM17.855 3.679a2.414 2.414 0 0 0-2.438 2.437v1.95c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438v-1.95a2.414 2.414 0 0 0-2.437-2.437Zm.975 4.387c0 .536-.439.975-.975.975s-.975-.439-.975-.975v-1.95c0-.536.439-.975.975-.975s.975.439.975.975v1.95ZM12.005 5.629h-.146c.487-.439 1.023-.488 1.121-.488.39 0 .731-.341.682-.78.05-.39-.292-.682-.73-.682-1.17.049-3.365 1.023-3.365 4.241v.146c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438S13.37 5.63 12.005 5.63Zm0 3.412c-.536 0-.975-.439-.975-.975s.439-.975.975-.975.975.439.975.975-.439.975-.975.975ZM11.981 14.603a1.04 1.04 0 0 0-.715-.317.998.998 0 0 0-.985.986c0 .252.115.513.318.716l.492.491c-6.272-.143-9.12-1.708-9.12-2.187 0-.203.867-.981 3.523-1.566l.014-.487a15.23 15.23 0 0 1-2.263-.818l-.096-.044-.098.037C1.084 12.152 0 13.174 0 14.292c0 1.988 3.44 4.014 11.108 4.16l-.558.558a.958.958 0 0 0 0 1.384.974.974 0 0 0 .69.295.975.975 0 0 0 .693-.295l2.203-2.204a.955.955 0 0 0 .002-1.38l-2.157-2.207ZM20.95 11.414l-.108-.04-.1.054c-.6.323-1.357.612-2.25.86l.013.487c2.656.585 3.524 1.363 3.524 1.563-.023.186-1.028 1.255-5.263 1.86a1.01 1.01 0 0 0-.854 1.112 1.016 1.016 0 0 0 1.12.853C21.655 17.452 24 16.15 24 14.293c0-1.119-1.084-2.14-3.05-2.879Z\"/></svg>                    </span>\n\t\t\t\t                <div class=\"jd-fp-unit-card__image \">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#268 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet\" alt=\"#268 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n                        <div class=\"jd-fp-unit-card__divergence-tag jd-fp-card-info__text\">\n                            <span class=\"jd-fp-card-info__badge\">Outside price filter range</span>\n                        </div>\n                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline jd-fp-card-info__text--space-between\">\n                            <span class=\"jd-fp-card-info__title jd-fp-card-info__title--large\">#268</span>\n\n                                                            <span class=\"jd-fp-card-info__text--brand \">Available Now</span>\n                                                    </div>\n                        <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>577 sq. ft.</span>                            </p>\n\t\t\t\t\t\t\n                                                    <p class=\"jd-fp-card-info__spacer\"><span></span></p>\n                                                </div>\n                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group jd-fp-card-info__group--gap-small\">\n                            <span class=\"jd-fp-card-info__text jd-fp-card-info__text--stack\">\n                                <span data-jd-fp-adp=\"display\" class=\"jd-fp-strong-text\">$2,294.70 /mo*</span>\n                                                                    <span class=\"jd-fp-card-info-term-and-base jd-fp-xsmall-text-size\">\n                                                                                    <span class=\"jd-fp-card-info-term-and-base--term\" data-jd-fp-adp=\"term\">15 months</span>\n                                                                                                                            <span class=\"jd-fp-card-info-term-and-base--base\" data-jd-fp-adp=\"base_display\">$2,225 Base Rent</span>\n                                                                            </span>\n                                                            </span>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "origin": "lease_term",
+          "term": "11",
+          "termDisplay": "11 months",
+          "termOptionDisplay": "11 Months ($2,460) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2460,
+          "priceHigh": 2460,
+          "priceDisplay": "$2,460 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "12",
+          "termDisplay": "12 months",
+          "termOptionDisplay": "12 Months ($2,225) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2225,
+          "priceHigh": 2225,
+          "priceDisplay": "$2,225 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": true,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "13",
+          "termDisplay": "13 months",
+          "termOptionDisplay": "13 Months ($2,225) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2225,
+          "priceHigh": 2225,
+          "priceDisplay": "$2,225 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "14",
+          "termDisplay": "14 months",
+          "termOptionDisplay": "14 Months ($2,225) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2225,
+          "priceHigh": 2225,
+          "priceDisplay": "$2,225 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "15",
+          "termDisplay": "15 months",
+          "termOptionDisplay": "15 Months ($2,225) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2225,
+          "priceHigh": 2225,
+          "priceDisplay": "$2,225 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        }
+      ],
+      "seo_title": "#268 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#268 | 1 bed, 1 bath | 577 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "pricing_base",
+        "lease_term_floorplan",
+        "available_date",
+        "building",
+        "floor",
+        "square_feet_unit",
+        "lease_term_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992427/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992427/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2026-05-10",
+        "end_date": "2026-06-09",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20260510T080516Z"
+    },
+    "356": {
+      "type": "unit",
+      "slug": "952f37c81c55fa6460d54d0252342f6c",
+      "permalink": "/floorplans/unit-952f37c81c55fa6460d54d0252342f6c/",
+      "id": 660115,
+      "id_value": "12094675",
+      "property_id": "35994",
+      "apartment_number": "356",
+      "availability_count": 6,
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#356",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>577 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A1",
+      "building_display": "Building A1",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "577 sq. ft.",
+      "square_feet": "577",
+      "rent_min": "2377.70",
+      "rent_max": "2377.70",
+      "price": "$2,377.70",
+      "price_display": "$2,377.70 /mo*",
+      "price_itemized": {
+        "items": [
+          {
+            "label": "Total Monthly Leasing Price*",
+            "display_size": "large",
+            "tooltip": "",
+            "value": "$2,377.70"
+          },
+          {
+            "label": "Est. Application Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+            "value": "$310"
+          },
+          {
+            "label": "Est. Move-In Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+            "value": "$3,127.70"
+          },
+          {
+            "label": "Est. Move-Out Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+            "value": "$15"
+          }
+        ]
+      },
+      "price_term_origin": "15",
+      "price_entity": {
+        "origin": "unit",
+        "term": "15",
+        "termDisplay": "15 months",
+        "termOptionDisplay": "15 Months ($2,378) Base Rent",
+        "date": "2026-04-07",
+        "priceLow": 2377.7,
+        "priceHigh": 2377.7,
+        "priceDisplay": "$2,377.70 /mo*",
+        "priceDisplayNoFees": "$2,308 Base Rent",
+        "pricingReflectFees": true,
+        "best": null,
+        "adjusted": {
+          "low_no_fees": "2308",
+          "low": "2377.70",
+          "low_with_movein_fees": "3127.70",
+          "low_moveout_fees": "15",
+          "low_application_fees": "310",
+          "high_no_fees": "2308",
+          "high": "2377.70",
+          "high_with_movein_fees": "3127.70",
+          "high_moveout_fees": "15",
+          "high_application_fees": "310",
+          "display_no_fees": "$2,308",
+          "display": "$2,377.70",
+          "display_with_movein_fees": "$3,127.70",
+          "display_moveout_fees": "$15",
+          "display_application_fees": "$310",
+          "fees_prorated": false,
+          "base_rent_prorated": false,
+          "term_matching_price": "15"
+        },
+        "displayDate": "",
+        "itemized": {
+          "items": [
+            {
+              "label": "Total Monthly Leasing Price*",
+              "display_size": "large",
+              "tooltip": "",
+              "value": "$2,377.70"
+            },
+            {
+              "label": "Est. Application Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+              "value": "$310"
+            },
+            {
+              "label": "Est. Move-In Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+              "value": "$3,127.70"
+            },
+            {
+              "label": "Est. Move-Out Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+              "value": "$15"
+            }
+          ]
+        },
+        "termId": null
+      },
+      "available_date": "1775538000",
+      "available_display": "Available Now",
+      "arbitrary_filter_links": [
+        4
+      ],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#356 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet",
+        "alt": "#356 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet"
+      },
+      "engrain_data": {
+        "embed_url": "https://sightmap.com/embed/n9w6344zw71?enable_api=1&origin=https://maccommons.com",
+        "asset_id": "35994",
+        "unit_id": "12094675",
+        "floor_id": "147426",
+        "floor_name": "3"
+      },
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#356\" aria-label=\"View #356\" href=\"/floorplans/unit-952f37c81c55fa6460d54d0252342f6c/\" data-unit=\"952f37c81c55fa6460d54d0252342f6c\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                    <span class=\"jd-fp-tour-icon jd-fp-tour-icon--float\">\n                        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M6.106 3.679c-1.365 0-2.145.877-2.193.975-.293.292-.244.73.048 1.023a.707.707 0 0 0 1.024-.048s.439-.44 1.121-.44c.537 0 .78.196.78.586 0 .487-.536.585-.73.585H5.91c-.39 0-.73.341-.73.731s.34.731.73.731c.439 0 1.219.147 1.219.585 0 .537-.585.585-.926.585-.78 0-1.219-.438-1.219-.438-.244-.293-.731-.293-1.024-.05-.292.244-.34.732-.097 1.025.097.097.877.975 2.34.975 1.414 0 2.389-.83 2.389-2.048 0-.585-.244-1.072-.683-1.462.244-.342.439-.732.439-1.22 0-1.267-.926-2.095-2.243-2.095ZM17.855 3.679a2.414 2.414 0 0 0-2.438 2.437v1.95c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438v-1.95a2.414 2.414 0 0 0-2.437-2.437Zm.975 4.387c0 .536-.439.975-.975.975s-.975-.439-.975-.975v-1.95c0-.536.439-.975.975-.975s.975.439.975.975v1.95ZM12.005 5.629h-.146c.487-.439 1.023-.488 1.121-.488.39 0 .731-.341.682-.78.05-.39-.292-.682-.73-.682-1.17.049-3.365 1.023-3.365 4.241v.146c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438S13.37 5.63 12.005 5.63Zm0 3.412c-.536 0-.975-.439-.975-.975s.439-.975.975-.975.975.439.975.975-.439.975-.975.975ZM11.981 14.603a1.04 1.04 0 0 0-.715-.317.998.998 0 0 0-.985.986c0 .252.115.513.318.716l.492.491c-6.272-.143-9.12-1.708-9.12-2.187 0-.203.867-.981 3.523-1.566l.014-.487a15.23 15.23 0 0 1-2.263-.818l-.096-.044-.098.037C1.084 12.152 0 13.174 0 14.292c0 1.988 3.44 4.014 11.108 4.16l-.558.558a.958.958 0 0 0 0 1.384.974.974 0 0 0 .69.295.975.975 0 0 0 .693-.295l2.203-2.204a.955.955 0 0 0 .002-1.38l-2.157-2.207ZM20.95 11.414l-.108-.04-.1.054c-.6.323-1.357.612-2.25.86l.013.487c2.656.585 3.524 1.363 3.524 1.563-.023.186-1.028 1.255-5.263 1.86a1.01 1.01 0 0 0-.854 1.112 1.016 1.016 0 0 0 1.12.853C21.655 17.452 24 16.15 24 14.293c0-1.119-1.084-2.14-3.05-2.879Z\"/></svg>                    </span>\n\t\t\t\t                <div class=\"jd-fp-unit-card__image \">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#356 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet\" alt=\"#356 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n                        <div class=\"jd-fp-unit-card__divergence-tag jd-fp-card-info__text\">\n                            <span class=\"jd-fp-card-info__badge\">Outside price filter range</span>\n                        </div>\n                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline jd-fp-card-info__text--space-between\">\n                            <span class=\"jd-fp-card-info__title jd-fp-card-info__title--large\">#356</span>\n\n                                                            <span class=\"jd-fp-card-info__text--brand \">Available Now</span>\n                                                    </div>\n                        <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>577 sq. ft.</span>                            </p>\n\t\t\t\t\t\t\n                                                    <p class=\"jd-fp-card-info__spacer\"><span></span></p>\n                                                </div>\n                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group jd-fp-card-info__group--gap-small\">\n                            <span class=\"jd-fp-card-info__text jd-fp-card-info__text--stack\">\n                                <span data-jd-fp-adp=\"display\" class=\"jd-fp-strong-text\">$2,377.70 /mo*</span>\n                                                                    <span class=\"jd-fp-card-info-term-and-base jd-fp-xsmall-text-size\">\n                                                                                    <span class=\"jd-fp-card-info-term-and-base--term\" data-jd-fp-adp=\"term\">15 months</span>\n                                                                                                                            <span class=\"jd-fp-card-info-term-and-base--base\" data-jd-fp-adp=\"base_display\">$2,308 Base Rent</span>\n                                                                            </span>\n                                                            </span>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "origin": "lease_term",
+          "term": "11",
+          "termDisplay": "11 months",
+          "termOptionDisplay": "11 Months ($2,549) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2549,
+          "priceHigh": 2549,
+          "priceDisplay": "$2,549 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "12",
+          "termDisplay": "12 months",
+          "termOptionDisplay": "12 Months ($2,308) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2308,
+          "priceHigh": 2308,
+          "priceDisplay": "$2,308 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": true,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "13",
+          "termDisplay": "13 months",
+          "termOptionDisplay": "13 Months ($2,308) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2308,
+          "priceHigh": 2308,
+          "priceDisplay": "$2,308 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "14",
+          "termDisplay": "14 months",
+          "termOptionDisplay": "14 Months ($2,308) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2308,
+          "priceHigh": 2308,
+          "priceDisplay": "$2,308 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "15",
+          "termDisplay": "15 months",
+          "termOptionDisplay": "15 Months ($2,308) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2308,
+          "priceHigh": 2308,
+          "priceDisplay": "$2,308 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        }
+      ],
+      "seo_title": "#356 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#356 | 1 bed, 1 bath | 577 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "pricing_base",
+        "lease_term_floorplan",
+        "available_date",
+        "building",
+        "floor",
+        "square_feet_unit",
+        "lease_term_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992437/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992437/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2026-05-10",
+        "end_date": "2026-06-09",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20260510T080516Z"
+    },
+    "517": {
+      "type": "unit",
+      "slug": "79e4e3e004dd0337817a14563df4ac11",
+      "permalink": "/floorplans/unit-79e4e3e004dd0337817a14563df4ac11/",
+      "id": 660126,
+      "id_value": "12095013",
+      "property_id": "35994",
+      "apartment_number": "517",
+      "availability_count": 6,
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#517",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>610 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "C",
+      "building_display": "Building C",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "610 sq. ft.",
+      "square_feet": "610",
+      "rent_min": "2441.70",
+      "rent_max": "2441.70",
+      "price": "$2,441.70",
+      "price_display": "$2,441.70 /mo*",
+      "price_itemized": {
+        "items": [
+          {
+            "label": "Total Monthly Leasing Price*",
+            "display_size": "large",
+            "tooltip": "",
+            "value": "$2,441.70"
+          },
+          {
+            "label": "Est. Application Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+            "value": "$310"
+          },
+          {
+            "label": "Est. Move-In Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+            "value": "$3,191.70"
+          },
+          {
+            "label": "Est. Move-Out Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+            "value": "$15"
+          }
+        ]
+      },
+      "price_term_origin": "15",
+      "price_entity": {
+        "origin": "unit",
+        "term": "15",
+        "termDisplay": "15 months",
+        "termOptionDisplay": "15 Months ($2,442) Base Rent",
+        "date": "2026-04-19",
+        "priceLow": 2441.7,
+        "priceHigh": 2441.7,
+        "priceDisplay": "$2,441.70 /mo*",
+        "priceDisplayNoFees": "$2,372 Base Rent",
+        "pricingReflectFees": true,
+        "best": null,
+        "adjusted": {
+          "low_no_fees": "2372",
+          "low": "2441.70",
+          "low_with_movein_fees": "3191.70",
+          "low_moveout_fees": "15",
+          "low_application_fees": "310",
+          "high_no_fees": "2372",
+          "high": "2441.70",
+          "high_with_movein_fees": "3191.70",
+          "high_moveout_fees": "15",
+          "high_application_fees": "310",
+          "display_no_fees": "$2,372",
+          "display": "$2,441.70",
+          "display_with_movein_fees": "$3,191.70",
+          "display_moveout_fees": "$15",
+          "display_application_fees": "$310",
+          "fees_prorated": false,
+          "base_rent_prorated": false,
+          "term_matching_price": "15"
+        },
+        "displayDate": "",
+        "itemized": {
+          "items": [
+            {
+              "label": "Total Monthly Leasing Price*",
+              "display_size": "large",
+              "tooltip": "",
+              "value": "$2,441.70"
+            },
+            {
+              "label": "Est. Application Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+              "value": "$310"
+            },
+            {
+              "label": "Est. Move-In Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+              "value": "$3,191.70"
+            },
+            {
+              "label": "Est. Move-Out Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+              "value": "$15"
+            }
+          ]
+        },
+        "termId": null
+      },
+      "available_date": "1776574800",
+      "available_display": "Available Now",
+      "arbitrary_filter_links": [
+        4
+      ],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#517 - 1 bedroom floor plan layout with 1 bathroom and 610 square feet",
+        "alt": "#517 - 1 bedroom floor plan layout with 1 bathroom and 610 square feet"
+      },
+      "engrain_data": {
+        "embed_url": "https://sightmap.com/embed/n9w6344zw71?enable_api=1&origin=https://maccommons.com",
+        "asset_id": "35994",
+        "unit_id": "12095013",
+        "floor_id": "147428",
+        "floor_name": "5"
+      },
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#517\" aria-label=\"View #517\" href=\"/floorplans/unit-79e4e3e004dd0337817a14563df4ac11/\" data-unit=\"79e4e3e004dd0337817a14563df4ac11\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                    <span class=\"jd-fp-tour-icon jd-fp-tour-icon--float\">\n                        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M6.106 3.679c-1.365 0-2.145.877-2.193.975-.293.292-.244.73.048 1.023a.707.707 0 0 0 1.024-.048s.439-.44 1.121-.44c.537 0 .78.196.78.586 0 .487-.536.585-.73.585H5.91c-.39 0-.73.341-.73.731s.34.731.73.731c.439 0 1.219.147 1.219.585 0 .537-.585.585-.926.585-.78 0-1.219-.438-1.219-.438-.244-.293-.731-.293-1.024-.05-.292.244-.34.732-.097 1.025.097.097.877.975 2.34.975 1.414 0 2.389-.83 2.389-2.048 0-.585-.244-1.072-.683-1.462.244-.342.439-.732.439-1.22 0-1.267-.926-2.095-2.243-2.095ZM17.855 3.679a2.414 2.414 0 0 0-2.438 2.437v1.95c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438v-1.95a2.414 2.414 0 0 0-2.437-2.437Zm.975 4.387c0 .536-.439.975-.975.975s-.975-.439-.975-.975v-1.95c0-.536.439-.975.975-.975s.975.439.975.975v1.95ZM12.005 5.629h-.146c.487-.439 1.023-.488 1.121-.488.39 0 .731-.341.682-.78.05-.39-.292-.682-.73-.682-1.17.049-3.365 1.023-3.365 4.241v.146c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438S13.37 5.63 12.005 5.63Zm0 3.412c-.536 0-.975-.439-.975-.975s.439-.975.975-.975.975.439.975.975-.439.975-.975.975ZM11.981 14.603a1.04 1.04 0 0 0-.715-.317.998.998 0 0 0-.985.986c0 .252.115.513.318.716l.492.491c-6.272-.143-9.12-1.708-9.12-2.187 0-.203.867-.981 3.523-1.566l.014-.487a15.23 15.23 0 0 1-2.263-.818l-.096-.044-.098.037C1.084 12.152 0 13.174 0 14.292c0 1.988 3.44 4.014 11.108 4.16l-.558.558a.958.958 0 0 0 0 1.384.974.974 0 0 0 .69.295.975.975 0 0 0 .693-.295l2.203-2.204a.955.955 0 0 0 .002-1.38l-2.157-2.207ZM20.95 11.414l-.108-.04-.1.054c-.6.323-1.357.612-2.25.86l.013.487c2.656.585 3.524 1.363 3.524 1.563-.023.186-1.028 1.255-5.263 1.86a1.01 1.01 0 0 0-.854 1.112 1.016 1.016 0 0 0 1.12.853C21.655 17.452 24 16.15 24 14.293c0-1.119-1.084-2.14-3.05-2.879Z\"/></svg>                    </span>\n\t\t\t\t                <div class=\"jd-fp-unit-card__image \">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#517 - 1 bedroom floor plan layout with 1 bathroom and 610 square feet\" alt=\"#517 - 1 bedroom floor plan layout with 1 bathroom and 610 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n                        <div class=\"jd-fp-unit-card__divergence-tag jd-fp-card-info__text\">\n                            <span class=\"jd-fp-card-info__badge\">Outside price filter range</span>\n                        </div>\n                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline jd-fp-card-info__text--space-between\">\n                            <span class=\"jd-fp-card-info__title jd-fp-card-info__title--large\">#517</span>\n\n                                                            <span class=\"jd-fp-card-info__text--brand \">Available Now</span>\n                                                    </div>\n                        <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>610 sq. ft.</span>                            </p>\n\t\t\t\t\t\t\n                                                    <p class=\"jd-fp-card-info__spacer\"><span></span></p>\n                                                </div>\n                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group jd-fp-card-info__group--gap-small\">\n                            <span class=\"jd-fp-card-info__text jd-fp-card-info__text--stack\">\n                                <span data-jd-fp-adp=\"display\" class=\"jd-fp-strong-text\">$2,441.70 /mo*</span>\n                                                                    <span class=\"jd-fp-card-info-term-and-base jd-fp-xsmall-text-size\">\n                                                                                    <span class=\"jd-fp-card-info-term-and-base--term\" data-jd-fp-adp=\"term\">15 months</span>\n                                                                                                                            <span class=\"jd-fp-card-info-term-and-base--base\" data-jd-fp-adp=\"base_display\">$2,372 Base Rent</span>\n                                                                            </span>\n                                                            </span>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "origin": "lease_term",
+          "term": "11",
+          "termDisplay": "11 months",
+          "termOptionDisplay": "11 Months ($2,604) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2604,
+          "priceHigh": 2604,
+          "priceDisplay": "$2,604 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "12",
+          "termDisplay": "12 months",
+          "termOptionDisplay": "12 Months ($2,372) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2372,
+          "priceHigh": 2372,
+          "priceDisplay": "$2,372 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": true,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "13",
+          "termDisplay": "13 months",
+          "termOptionDisplay": "13 Months ($2,372) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2372,
+          "priceHigh": 2372,
+          "priceDisplay": "$2,372 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "14",
+          "termDisplay": "14 months",
+          "termOptionDisplay": "14 Months ($2,372) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2372,
+          "priceHigh": 2372,
+          "priceDisplay": "$2,372 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "15",
+          "termDisplay": "15 months",
+          "termOptionDisplay": "15 Months ($2,372) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2372,
+          "priceHigh": 2372,
+          "priceDisplay": "$2,372 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        }
+      ],
+      "seo_title": "#517 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#517 | 1 bed, 1 bath | 610 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "pricing_base",
+        "lease_term_floorplan",
+        "available_date",
+        "building",
+        "floor",
+        "square_feet_unit",
+        "lease_term_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992389/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992389/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2026-05-10",
+        "end_date": "2026-06-09",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20260510T080516Z"
+    },
+    "346": {
+      "type": "unit",
+      "slug": "bf588b36d97533e0c1679594028e0a3c",
+      "permalink": "/floorplans/unit-bf588b36d97533e0c1679594028e0a3c/",
+      "id": 660122,
+      "id_value": "12094818",
+      "property_id": "35994",
+      "apartment_number": "346",
+      "availability_count": 6,
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#346",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>563 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A2",
+      "building_display": "Building A2",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "563 sq. ft.",
+      "square_feet": "563",
+      "rent_min": "2388.70",
+      "rent_max": "2388.70",
+      "price": "$2,388.70",
+      "price_display": "$2,388.70 /mo*",
+      "price_itemized": {
+        "items": [
+          {
+            "label": "Total Monthly Leasing Price*",
+            "display_size": "large",
+            "tooltip": "",
+            "value": "$2,388.70"
+          },
+          {
+            "label": "Est. Application Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+            "value": "$310"
+          },
+          {
+            "label": "Est. Move-In Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+            "value": "$3,138.70"
+          },
+          {
+            "label": "Est. Move-Out Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+            "value": "$15"
+          }
+        ]
+      },
+      "price_term_origin": "15",
+      "price_entity": {
+        "origin": "unit",
+        "term": "15",
+        "termDisplay": "15 months",
+        "termOptionDisplay": "15 Months ($2,389) Base Rent",
+        "date": "2026-04-23",
+        "priceLow": 2388.7,
+        "priceHigh": 2388.7,
+        "priceDisplay": "$2,388.70 /mo*",
+        "priceDisplayNoFees": "$2,319 Base Rent",
+        "pricingReflectFees": true,
+        "best": null,
+        "adjusted": {
+          "low_no_fees": "2319",
+          "low": "2388.70",
+          "low_with_movein_fees": "3138.70",
+          "low_moveout_fees": "15",
+          "low_application_fees": "310",
+          "high_no_fees": "2319",
+          "high": "2388.70",
+          "high_with_movein_fees": "3138.70",
+          "high_moveout_fees": "15",
+          "high_application_fees": "310",
+          "display_no_fees": "$2,319",
+          "display": "$2,388.70",
+          "display_with_movein_fees": "$3,138.70",
+          "display_moveout_fees": "$15",
+          "display_application_fees": "$310",
+          "fees_prorated": false,
+          "base_rent_prorated": false,
+          "term_matching_price": "15"
+        },
+        "displayDate": "",
+        "itemized": {
+          "items": [
+            {
+              "label": "Total Monthly Leasing Price*",
+              "display_size": "large",
+              "tooltip": "",
+              "value": "$2,388.70"
+            },
+            {
+              "label": "Est. Application Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+              "value": "$310"
+            },
+            {
+              "label": "Est. Move-In Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+              "value": "$3,138.70"
+            },
+            {
+              "label": "Est. Move-Out Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+              "value": "$15"
+            }
+          ]
+        },
+        "termId": null
+      },
+      "available_date": "1776920400",
+      "available_display": "Available Now",
+      "arbitrary_filter_links": [
+        4
+      ],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#346 - 1 bedroom floor plan layout with 1 bathroom and 563 square feet",
+        "alt": "#346 - 1 bedroom floor plan layout with 1 bathroom and 563 square feet"
+      },
+      "engrain_data": {
+        "embed_url": "https://sightmap.com/embed/n9w6344zw71?enable_api=1&origin=https://maccommons.com",
+        "asset_id": "35994",
+        "unit_id": "12094818",
+        "floor_id": "147426",
+        "floor_name": "3"
+      },
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#346\" aria-label=\"View #346\" href=\"/floorplans/unit-bf588b36d97533e0c1679594028e0a3c/\" data-unit=\"bf588b36d97533e0c1679594028e0a3c\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                    <span class=\"jd-fp-tour-icon jd-fp-tour-icon--float\">\n                        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M6.106 3.679c-1.365 0-2.145.877-2.193.975-.293.292-.244.73.048 1.023a.707.707 0 0 0 1.024-.048s.439-.44 1.121-.44c.537 0 .78.196.78.586 0 .487-.536.585-.73.585H5.91c-.39 0-.73.341-.73.731s.34.731.73.731c.439 0 1.219.147 1.219.585 0 .537-.585.585-.926.585-.78 0-1.219-.438-1.219-.438-.244-.293-.731-.293-1.024-.05-.292.244-.34.732-.097 1.025.097.097.877.975 2.34.975 1.414 0 2.389-.83 2.389-2.048 0-.585-.244-1.072-.683-1.462.244-.342.439-.732.439-1.22 0-1.267-.926-2.095-2.243-2.095ZM17.855 3.679a2.414 2.414 0 0 0-2.438 2.437v1.95c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438v-1.95a2.414 2.414 0 0 0-2.437-2.437Zm.975 4.387c0 .536-.439.975-.975.975s-.975-.439-.975-.975v-1.95c0-.536.439-.975.975-.975s.975.439.975.975v1.95ZM12.005 5.629h-.146c.487-.439 1.023-.488 1.121-.488.39 0 .731-.341.682-.78.05-.39-.292-.682-.73-.682-1.17.049-3.365 1.023-3.365 4.241v.146c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438S13.37 5.63 12.005 5.63Zm0 3.412c-.536 0-.975-.439-.975-.975s.439-.975.975-.975.975.439.975.975-.439.975-.975.975ZM11.981 14.603a1.04 1.04 0 0 0-.715-.317.998.998 0 0 0-.985.986c0 .252.115.513.318.716l.492.491c-6.272-.143-9.12-1.708-9.12-2.187 0-.203.867-.981 3.523-1.566l.014-.487a15.23 15.23 0 0 1-2.263-.818l-.096-.044-.098.037C1.084 12.152 0 13.174 0 14.292c0 1.988 3.44 4.014 11.108 4.16l-.558.558a.958.958 0 0 0 0 1.384.974.974 0 0 0 .69.295.975.975 0 0 0 .693-.295l2.203-2.204a.955.955 0 0 0 .002-1.38l-2.157-2.207ZM20.95 11.414l-.108-.04-.1.054c-.6.323-1.357.612-2.25.86l.013.487c2.656.585 3.524 1.363 3.524 1.563-.023.186-1.028 1.255-5.263 1.86a1.01 1.01 0 0 0-.854 1.112 1.016 1.016 0 0 0 1.12.853C21.655 17.452 24 16.15 24 14.293c0-1.119-1.084-2.14-3.05-2.879Z\"/></svg>                    </span>\n\t\t\t\t                <div class=\"jd-fp-unit-card__image \">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#346 - 1 bedroom floor plan layout with 1 bathroom and 563 square feet\" alt=\"#346 - 1 bedroom floor plan layout with 1 bathroom and 563 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n                        <div class=\"jd-fp-unit-card__divergence-tag jd-fp-card-info__text\">\n                            <span class=\"jd-fp-card-info__badge\">Outside price filter range</span>\n                        </div>\n                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline jd-fp-card-info__text--space-between\">\n                            <span class=\"jd-fp-card-info__title jd-fp-card-info__title--large\">#346</span>\n\n                                                            <span class=\"jd-fp-card-info__text--brand \">Available Now</span>\n                                                    </div>\n                        <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>563 sq. ft.</span>                            </p>\n\t\t\t\t\t\t\n                                                    <p class=\"jd-fp-card-info__spacer\"><span></span></p>\n                                                </div>\n                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group jd-fp-card-info__group--gap-small\">\n                            <span class=\"jd-fp-card-info__text jd-fp-card-info__text--stack\">\n                                <span data-jd-fp-adp=\"display\" class=\"jd-fp-strong-text\">$2,388.70 /mo*</span>\n                                                                    <span class=\"jd-fp-card-info-term-and-base jd-fp-xsmall-text-size\">\n                                                                                    <span class=\"jd-fp-card-info-term-and-base--term\" data-jd-fp-adp=\"term\">15 months</span>\n                                                                                                                            <span class=\"jd-fp-card-info-term-and-base--base\" data-jd-fp-adp=\"base_display\">$2,319 Base Rent</span>\n                                                                            </span>\n                                                            </span>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "origin": "lease_term",
+          "term": "11",
+          "termDisplay": "11 months",
+          "termOptionDisplay": "11 Months ($2,556) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2556,
+          "priceHigh": 2556,
+          "priceDisplay": "$2,556 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "12",
+          "termDisplay": "12 months",
+          "termOptionDisplay": "12 Months ($2,319) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2319,
+          "priceHigh": 2319,
+          "priceDisplay": "$2,319 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": true,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "13",
+          "termDisplay": "13 months",
+          "termOptionDisplay": "13 Months ($2,319) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2319,
+          "priceHigh": 2319,
+          "priceDisplay": "$2,319 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "14",
+          "termDisplay": "14 months",
+          "termOptionDisplay": "14 Months ($2,319) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2319,
+          "priceHigh": 2319,
+          "priceDisplay": "$2,319 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "15",
+          "termDisplay": "15 months",
+          "termOptionDisplay": "15 Months ($2,319) Base Rent",
+          "date": "2026-05-10",
+          "endDate": null,
+          "priceLow": 2319,
+          "priceHigh": 2319,
+          "priceDisplay": "$2,319 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/10/2026",
+          "itemized": [],
+          "termId": null
+        }
+      ],
+      "seo_title": "#346 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#346 | 1 bed, 1 bath | 563 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "pricing_base",
+        "lease_term_floorplan",
+        "available_date",
+        "building",
+        "floor",
+        "square_feet_unit",
+        "lease_term_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992580/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992580/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2026-05-10",
+        "end_date": "2026-06-09",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20260510T080516Z"
+    },
+    "446": {
+      "type": "unit",
+      "slug": "ac8c597dec4863dd9e784f054e321d7a",
+      "permalink": "/floorplans/unit-ac8c597dec4863dd9e784f054e321d7a/",
+      "id": 660137,
+      "id_value": "12094857",
+      "property_id": "35994",
+      "apartment_number": "446",
+      "availability_count": 6,
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#446",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>563 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A2",
+      "building_display": "Building A2",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "563 sq. ft.",
+      "square_feet": "563",
+      "rent_min": "2438.70",
+      "rent_max": "2438.70",
+      "price": "$2,438.70",
+      "price_display": "$2,438.70 /mo*",
+      "price_itemized": {
+        "items": [
+          {
+            "label": "Total Monthly Leasing Price*",
+            "display_size": "large",
+            "tooltip": "",
+            "value": "$2,438.70"
+          },
+          {
+            "label": "Est. Application Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+            "value": "$310"
+          },
+          {
+            "label": "Est. Move-In Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+            "value": "$3,188.70"
+          },
+          {
+            "label": "Est. Move-Out Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+            "value": "$15"
+          }
+        ]
+      },
+      "price_term_origin": "15",
+      "price_entity": {
+        "origin": "unit",
+        "term": "15",
+        "termDisplay": "15 months",
+        "termOptionDisplay": "15 Months ($2,439) Base Rent",
+        "date": "2026-05-22",
+        "priceLow": 2438.7,
+        "priceHigh": 2438.7,
+        "priceDisplay": "$2,438.70 /mo*",
+        "priceDisplayNoFees": "$2,369 Base Rent",
+        "pricingReflectFees": true,
+        "best": null,
+        "adjusted": {
+          "low_no_fees": "2369",
+          "low": "2438.70",
+          "low_with_movein_fees": "3188.70",
+          "low_moveout_fees": "15",
+          "low_application_fees": "310",
+          "high_no_fees": "2369",
+          "high": "2438.70",
+          "high_with_movein_fees": "3188.70",
+          "high_moveout_fees": "15",
+          "high_application_fees": "310",
+          "display_no_fees": "$2,369",
+          "display": "$2,438.70",
+          "display_with_movein_fees": "$3,188.70",
+          "display_moveout_fees": "$15",
+          "display_application_fees": "$310",
+          "fees_prorated": false,
+          "base_rent_prorated": false,
+          "term_matching_price": "15"
+        },
+        "displayDate": "",
+        "itemized": {
+          "items": [
+            {
+              "label": "Total Monthly Leasing Price*",
+              "display_size": "large",
+              "tooltip": "",
+              "value": "$2,438.70"
+            },
+            {
+              "label": "Est. Application Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+              "value": "$310"
+            },
+            {
+              "label": "Est. Move-In Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+              "value": "$3,188.70"
+            },
+            {
+              "label": "Est. Move-Out Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+              "value": "$15"
+            }
+          ]
+        },
+        "termId": null
+      },
+      "available_date": "1779426000",
+      "available_display": "Available May 22",
+      "arbitrary_filter_links": [
+        4
+      ],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#446 - 1 bedroom floor plan layout with 1 bathroom and 563 square feet",
+        "alt": "#446 - 1 bedroom floor plan layout with 1 bathroom and 563 square feet"
+      },
+      "engrain_data": {
+        "embed_url": "https://sightmap.com/embed/n9w6344zw71?enable_api=1&origin=https://maccommons.com",
+        "asset_id": "35994",
+        "unit_id": "12094857",
+        "floor_id": "147427",
+        "floor_name": "4"
+      },
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#446\" aria-label=\"View #446\" href=\"/floorplans/unit-ac8c597dec4863dd9e784f054e321d7a/\" data-unit=\"ac8c597dec4863dd9e784f054e321d7a\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                    <span class=\"jd-fp-tour-icon jd-fp-tour-icon--float\">\n                        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M6.106 3.679c-1.365 0-2.145.877-2.193.975-.293.292-.244.73.048 1.023a.707.707 0 0 0 1.024-.048s.439-.44 1.121-.44c.537 0 .78.196.78.586 0 .487-.536.585-.73.585H5.91c-.39 0-.73.341-.73.731s.34.731.73.731c.439 0 1.219.147 1.219.585 0 .537-.585.585-.926.585-.78 0-1.219-.438-1.219-.438-.244-.293-.731-.293-1.024-.05-.292.244-.34.732-.097 1.025.097.097.877.975 2.34.975 1.414 0 2.389-.83 2.389-2.048 0-.585-.244-1.072-.683-1.462.244-.342.439-.732.439-1.22 0-1.267-.926-2.095-2.243-2.095ZM17.855 3.679a2.414 2.414 0 0 0-2.438 2.437v1.95c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438v-1.95a2.414 2.414 0 0 0-2.437-2.437Zm.975 4.387c0 .536-.439.975-.975.975s-.975-.439-.975-.975v-1.95c0-.536.439-.975.975-.975s.975.439.975.975v1.95ZM12.005 5.629h-.146c.487-.439 1.023-.488 1.121-.488.39 0 .731-.341.682-.78.05-.39-.292-.682-.73-.682-1.17.049-3.365 1.023-3.365 4.241v.146c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438S13.37 5.63 12.005 5.63Zm0 3.412c-.536 0-.975-.439-.975-.975s.439-.975.975-.975.975.439.975.975-.439.975-.975.975ZM11.981 14.603a1.04 1.04 0 0 0-.715-.317.998.998 0 0 0-.985.986c0 .252.115.513.318.716l.492.491c-6.272-.143-9.12-1.708-9.12-2.187 0-.203.867-.981 3.523-1.566l.014-.487a15.23 15.23 0 0 1-2.263-.818l-.096-.044-.098.037C1.084 12.152 0 13.174 0 14.292c0 1.988 3.44 4.014 11.108 4.16l-.558.558a.958.958 0 0 0 0 1.384.974.974 0 0 0 .69.295.975.975 0 0 0 .693-.295l2.203-2.204a.955.955 0 0 0 .002-1.38l-2.157-2.207ZM20.95 11.414l-.108-.04-.1.054c-.6.323-1.357.612-2.25.86l.013.487c2.656.585 3.524 1.363 3.524 1.563-.023.186-1.028 1.255-5.263 1.86a1.01 1.01 0 0 0-.854 1.112 1.016 1.016 0 0 0 1.12.853C21.655 17.452 24 16.15 24 14.293c0-1.119-1.084-2.14-3.05-2.879Z\"/></svg>                    </span>\n\t\t\t\t                <div class=\"jd-fp-unit-card__image \">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#446 - 1 bedroom floor plan layout with 1 bathroom and 563 square feet\" alt=\"#446 - 1 bedroom floor plan layout with 1 bathroom and 563 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n                        <div class=\"jd-fp-unit-card__divergence-tag jd-fp-card-info__text\">\n                            <span class=\"jd-fp-card-info__badge\">Outside price filter range</span>\n                        </div>\n                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline jd-fp-card-info__text--space-between\">\n                            <span class=\"jd-fp-card-info__title jd-fp-card-info__title--large\">#446</span>\n\n                                                            <span class=\"jd-fp-card-info__text--brand \">Available May 22</span>\n                                                    </div>\n                        <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>563 sq. ft.</span>                            </p>\n\t\t\t\t\t\t\n                                                    <p class=\"jd-fp-card-info__spacer\"><span></span></p>\n                                                </div>\n                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group jd-fp-card-info__group--gap-small\">\n                            <span class=\"jd-fp-card-info__text jd-fp-card-info__text--stack\">\n                                <span data-jd-fp-adp=\"display\" class=\"jd-fp-strong-text\">$2,438.70 /mo*</span>\n                                                                    <span class=\"jd-fp-card-info-term-and-base jd-fp-xsmall-text-size\">\n                                                                                    <span class=\"jd-fp-card-info-term-and-base--term\" data-jd-fp-adp=\"term\">15 months</span>\n                                                                                                                            <span class=\"jd-fp-card-info-term-and-base--base\" data-jd-fp-adp=\"base_display\">$2,369 Base Rent</span>\n                                                                            </span>\n                                                            </span>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "origin": "lease_term",
+          "term": "11",
+          "termDisplay": "11 months",
+          "termOptionDisplay": "11 Months ($2,611) Base Rent",
+          "date": "2026-05-22",
+          "endDate": null,
+          "priceLow": 2611,
+          "priceHigh": 2611,
+          "priceDisplay": "$2,611 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/22/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "12",
+          "termDisplay": "12 months",
+          "termOptionDisplay": "12 Months ($2,369) Base Rent",
+          "date": "2026-05-22",
+          "endDate": null,
+          "priceLow": 2369,
+          "priceHigh": 2369,
+          "priceDisplay": "$2,369 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": true,
+          "adjusted": [],
+          "displayDate": "05/22/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "13",
+          "termDisplay": "13 months",
+          "termOptionDisplay": "13 Months ($2,369) Base Rent",
+          "date": "2026-05-22",
+          "endDate": null,
+          "priceLow": 2369,
+          "priceHigh": 2369,
+          "priceDisplay": "$2,369 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/22/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "14",
+          "termDisplay": "14 months",
+          "termOptionDisplay": "14 Months ($2,369) Base Rent",
+          "date": "2026-05-22",
+          "endDate": null,
+          "priceLow": 2369,
+          "priceHigh": 2369,
+          "priceDisplay": "$2,369 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/22/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "15",
+          "termDisplay": "15 months",
+          "termOptionDisplay": "15 Months ($2,369) Base Rent",
+          "date": "2026-05-22",
+          "endDate": null,
+          "priceLow": 2369,
+          "priceHigh": 2369,
+          "priceDisplay": "$2,369 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "05/22/2026",
+          "itemized": [],
+          "termId": null
+        }
+      ],
+      "seo_title": "#446 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#446 | 1 bed, 1 bath | 563 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "pricing_base",
+        "lease_term_floorplan",
+        "available_date",
+        "building",
+        "floor",
+        "square_feet_unit",
+        "lease_term_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992621/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992621/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2026-05-22",
+        "end_date": "2026-06-21",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20260510T080516Z"
+    },
+    "667": {
+      "type": "unit",
+      "slug": "c2ef49d22353db2f3444878673342aba",
+      "permalink": "/floorplans/unit-c2ef49d22353db2f3444878673342aba/",
+      "id": 660131,
+      "id_value": "12094737",
+      "property_id": "35994",
+      "apartment_number": "667",
+      "availability_count": 6,
+      "floorplan_id": 45,
+      "floorplan_title": "Jr. 1 Bedroom B",
+      "title": "#667",
+      "info_text": "<span>1 bed</span><span>1 bath</span><span>577 sq. ft.</span>",
+      "bedrooms": "1",
+      "bathrooms": "1",
+      "addition": null,
+      "misc": null,
+      "building": "A1",
+      "building_display": "Building A1",
+      "bedrooms_display": "1 bed",
+      "bathrooms_display": "1 bath",
+      "square_feet_display": "577 sq. ft.",
+      "square_feet": "577",
+      "rent_min": "2455.70",
+      "rent_max": "2455.70",
+      "price": "$2,455.70",
+      "price_display": "$2,455.70 /mo*",
+      "price_itemized": {
+        "items": [
+          {
+            "label": "Total Monthly Leasing Price*",
+            "display_size": "large",
+            "tooltip": "",
+            "value": "$2,455.70"
+          },
+          {
+            "label": "Est. Application Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+            "value": "$310"
+          },
+          {
+            "label": "Est. Move-In Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+            "value": "$3,205.70"
+          },
+          {
+            "label": "Est. Move-Out Cost",
+            "display_size": "default",
+            "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+            "value": "$15"
+          }
+        ]
+      },
+      "price_term_origin": "15",
+      "price_entity": {
+        "origin": "unit",
+        "term": "15",
+        "termDisplay": "15 months",
+        "termOptionDisplay": "15 Months ($2,456) Base Rent",
+        "date": "2026-06-13",
+        "priceLow": 2455.7,
+        "priceHigh": 2455.7,
+        "priceDisplay": "$2,455.70 /mo*",
+        "priceDisplayNoFees": "$2,386 Base Rent",
+        "pricingReflectFees": true,
+        "best": null,
+        "adjusted": {
+          "low_no_fees": "2386",
+          "low": "2455.70",
+          "low_with_movein_fees": "3205.70",
+          "low_moveout_fees": "15",
+          "low_application_fees": "310",
+          "high_no_fees": "2386",
+          "high": "2455.70",
+          "high_with_movein_fees": "3205.70",
+          "high_moveout_fees": "15",
+          "high_application_fees": "310",
+          "display_no_fees": "$2,386",
+          "display": "$2,455.70",
+          "display_with_movein_fees": "$3,205.70",
+          "display_moveout_fees": "$15",
+          "display_application_fees": "$310",
+          "fees_prorated": false,
+          "base_rent_prorated": false,
+          "term_matching_price": "15"
+        },
+        "displayDate": "",
+        "itemized": {
+          "items": [
+            {
+              "label": "Total Monthly Leasing Price*",
+              "display_size": "large",
+              "tooltip": "",
+              "value": "$2,455.70"
+            },
+            {
+              "label": "Est. Application Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Application Costs include one-time charges due at the time of application unless specified otherwise in the application agreement.",
+              "value": "$310"
+            },
+            {
+              "label": "Est. Move-In Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-In Costs include the Total Monthly Leasing Price and one-time charges due at the time of move-in unless specified otherwise in the application or lease agreement.",
+              "value": "$3,205.70"
+            },
+            {
+              "label": "Est. Move-Out Cost",
+              "display_size": "default",
+              "tooltip": "Estimated Move-Out Costs include one-time charges due at the time of move-out. Base rent, recurring monthly fees, optional services, variable or usage-based charges, and other required fees are not included.",
+              "value": "$15"
+            }
+          ]
+        },
+        "termId": null
+      },
+      "available_date": "1781326800",
+      "available_display": "Available Jun 13",
+      "arbitrary_filter_links": [
+        4
+      ],
+      "thumbnail": {
+        "src": "https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg",
+        "title": "#667 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet",
+        "alt": "#667 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet"
+      },
+      "engrain_data": {
+        "embed_url": "https://sightmap.com/embed/n9w6344zw71?enable_api=1&origin=https://maccommons.com",
+        "asset_id": "35994",
+        "unit_id": "12094737",
+        "floor_id": "147429",
+        "floor_name": "6"
+      },
+      "card_html": "<a data-jd-fp-selector=\"unit-card\" title=\"#667\" aria-label=\"View #667\" href=\"/floorplans/unit-c2ef49d22353db2f3444878673342aba/\" data-unit=\"c2ef49d22353db2f3444878673342aba\" class=\"jd-fp-unit-card jd-fp-unit-card--row  jd-fp-unit-card--style-default\">\n        <div class=\"jd-fp-unit-card__container\">\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--image\">\n\t\t\t\t                    <span class=\"jd-fp-tour-icon jd-fp-tour-icon--float\">\n                        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M6.106 3.679c-1.365 0-2.145.877-2.193.975-.293.292-.244.73.048 1.023a.707.707 0 0 0 1.024-.048s.439-.44 1.121-.44c.537 0 .78.196.78.586 0 .487-.536.585-.73.585H5.91c-.39 0-.73.341-.73.731s.34.731.73.731c.439 0 1.219.147 1.219.585 0 .537-.585.585-.926.585-.78 0-1.219-.438-1.219-.438-.244-.293-.731-.293-1.024-.05-.292.244-.34.732-.097 1.025.097.097.877.975 2.34.975 1.414 0 2.389-.83 2.389-2.048 0-.585-.244-1.072-.683-1.462.244-.342.439-.732.439-1.22 0-1.267-.926-2.095-2.243-2.095ZM17.855 3.679a2.414 2.414 0 0 0-2.438 2.437v1.95c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438v-1.95a2.414 2.414 0 0 0-2.437-2.437Zm.975 4.387c0 .536-.439.975-.975.975s-.975-.439-.975-.975v-1.95c0-.536.439-.975.975-.975s.975.439.975.975v1.95ZM12.005 5.629h-.146c.487-.439 1.023-.488 1.121-.488.39 0 .731-.341.682-.78.05-.39-.292-.682-.73-.682-1.17.049-3.365 1.023-3.365 4.241v.146c0 1.365 1.073 2.438 2.438 2.438s2.437-1.073 2.437-2.438S13.37 5.63 12.005 5.63Zm0 3.412c-.536 0-.975-.439-.975-.975s.439-.975.975-.975.975.439.975.975-.439.975-.975.975ZM11.981 14.603a1.04 1.04 0 0 0-.715-.317.998.998 0 0 0-.985.986c0 .252.115.513.318.716l.492.491c-6.272-.143-9.12-1.708-9.12-2.187 0-.203.867-.981 3.523-1.566l.014-.487a15.23 15.23 0 0 1-2.263-.818l-.096-.044-.098.037C1.084 12.152 0 13.174 0 14.292c0 1.988 3.44 4.014 11.108 4.16l-.558.558a.958.958 0 0 0 0 1.384.974.974 0 0 0 .69.295.975.975 0 0 0 .693-.295l2.203-2.204a.955.955 0 0 0 .002-1.38l-2.157-2.207ZM20.95 11.414l-.108-.04-.1.054c-.6.323-1.357.612-2.25.86l.013.487c2.656.585 3.524 1.363 3.524 1.563-.023.186-1.028 1.255-5.263 1.86a1.01 1.01 0 0 0-.854 1.112 1.016 1.016 0 0 0 1.12.853C21.655 17.452 24 16.15 24 14.293c0-1.119-1.084-2.14-3.05-2.879Z\"/></svg>                    </span>\n\t\t\t\t                <div class=\"jd-fp-unit-card__image \">\n                    <img src=\"https://maccommons.com/assets/images/jr__1_bedroom_b_single1.svg\" title=\"#667 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet\" alt=\"#667 - 1 bedroom floor plan layout with 1 bathroom and 577 square feet\"/>\n                </div>\n\t\t\t\t                    <p class=\"jd-fp-unit-card__floorplan-title\">\n                        <span>Jr. 1 Bedroom B</span>\n                    </p>\n\t\t\t\t            </div>\n            <div class=\"jd-fp-unit-card__col jd-fp-unit-card__col--details\">\n                <div class=\"jd-fp-card-info jd-fp-card-info--y-adaptive jd-fp-card-info--small-text\">\n                    <div class=\"jd-fp-card-info__group\">\n                        <div class=\"jd-fp-unit-card__divergence-tag jd-fp-card-info__text\">\n                            <span class=\"jd-fp-card-info__badge\">Outside price filter range</span>\n                        </div>\n                        <div class=\"jd-fp-card-info__text jd-fp-card-info__text--align-baseline jd-fp-card-info__text--space-between\">\n                            <span class=\"jd-fp-card-info__title jd-fp-card-info__title--large\">#667</span>\n\n                                                            <span class=\"jd-fp-card-info__text--brand \">Available Jun 13</span>\n                                                    </div>\n                        <div class=\"jd-fp-card-info__group\">\n\t\t\t\t\t\t                            <p class=\"jd-fp-card-info__text\">\n\t\t\t\t\t\t\t\t<span>1 bed</span><span>1 bath</span><span>577 sq. ft.</span>                            </p>\n\t\t\t\t\t\t\n                                                    <p class=\"jd-fp-card-info__spacer\"><span></span></p>\n                                                </div>\n                    </div>\n\t\t\t\t\t                        <div class=\"jd-fp-card-info__group jd-fp-card-info__group--gap-small\">\n                            <span class=\"jd-fp-card-info__text jd-fp-card-info__text--stack\">\n                                <span data-jd-fp-adp=\"display\" class=\"jd-fp-strong-text\">$2,455.70 /mo*</span>\n                                                                    <span class=\"jd-fp-card-info-term-and-base jd-fp-xsmall-text-size\">\n                                                                                    <span class=\"jd-fp-card-info-term-and-base--term\" data-jd-fp-adp=\"term\">15 months</span>\n                                                                                                                            <span class=\"jd-fp-card-info-term-and-base--base\" data-jd-fp-adp=\"base_display\">$2,386 Base Rent</span>\n                                                                            </span>\n                                                            </span>\n                        </div>\n\t\t\t\t\t                </div>\n            </div>\n        </div>\n    </a>",
+      "specials": [],
+      "amenities": [],
+      "tours": [],
+      "lease_terms": [
+        {
+          "origin": "lease_term",
+          "term": "11",
+          "termDisplay": "11 months",
+          "termOptionDisplay": "11 Months ($2,396) Base Rent",
+          "date": "2026-06-13",
+          "endDate": null,
+          "priceLow": 2396,
+          "priceHigh": 2396,
+          "priceDisplay": "$2,396 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "06/13/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "12",
+          "termDisplay": "12 months",
+          "termOptionDisplay": "12 Months ($2,386) Base Rent",
+          "date": "2026-06-13",
+          "endDate": null,
+          "priceLow": 2386,
+          "priceHigh": 2386,
+          "priceDisplay": "$2,386 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": true,
+          "adjusted": [],
+          "displayDate": "06/13/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "13",
+          "termDisplay": "13 months",
+          "termOptionDisplay": "13 Months ($2,386) Base Rent",
+          "date": "2026-06-13",
+          "endDate": null,
+          "priceLow": 2386,
+          "priceHigh": 2386,
+          "priceDisplay": "$2,386 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "06/13/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "14",
+          "termDisplay": "14 months",
+          "termOptionDisplay": "14 Months ($2,386) Base Rent",
+          "date": "2026-06-13",
+          "endDate": null,
+          "priceLow": 2386,
+          "priceHigh": 2386,
+          "priceDisplay": "$2,386 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "06/13/2026",
+          "itemized": [],
+          "termId": null
+        },
+        {
+          "origin": "lease_term",
+          "term": "15",
+          "termDisplay": "15 months",
+          "termOptionDisplay": "15 Months ($2,386) Base Rent",
+          "date": "2026-06-13",
+          "endDate": null,
+          "priceLow": 2386,
+          "priceHigh": 2386,
+          "priceDisplay": "$2,386 /mo*",
+          "priceDisplayNoFees": "",
+          "pricingReflectFees": true,
+          "best": false,
+          "adjusted": [],
+          "displayDate": "06/13/2026",
+          "itemized": [],
+          "termId": null
+        }
+      ],
+      "seo_title": "#667 | Two-Bedroom Apartments in Oakland, CA, for Rent | Layouts",
+      "seo_description": "#667 | 1 bed, 1 bath | 577 sq. ft. | We offer spacious studio, one, & two-bedroom apartments in Oakland, CA. Complete with state-of-the-art features, MacArthur Commons is ready to welcome you home!",
+      "visible_data_points": [
+        "bed_bath",
+        "square_feet",
+        "pricing",
+        "pricing_base",
+        "lease_term_floorplan",
+        "available_date",
+        "building",
+        "floor",
+        "square_feet_unit",
+        "lease_term_unit",
+        "floorplan_unit_card_tooltip"
+      ],
+      "lease_link_data": {
+        "lease_link_raw": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992499/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "lease_link": "https://macarthurcommons.prospectportal.com/Apartments/module/application_authentication/property[id]/1239361/show_in_popup/false/kill_session/1/property_unit[id]/4992499/property_floorplan[id]/1147433/from_check_availability/1/term_month/{term}/?lease_start_date={date}&switch_cls[id]=101759",
+        "start_date": "2026-06-13",
+        "end_date": "2026-07-13",
+        "date_format": "m/d/yyyy",
+        "skip_step_exclusions": {
+          "start_date_offset": false,
+          "excluded_days_of_week": [],
+          "excluded_dates": []
+        },
+        "lease_link_override": null
+      },
+      "scraped_at": "20260510T080516Z"
+    }
+  }
+}
